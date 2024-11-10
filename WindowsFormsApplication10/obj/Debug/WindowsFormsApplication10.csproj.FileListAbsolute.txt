@@ -1,0 +1,9 @@
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\InfixToPostfixConvertersh.Form1.resources
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
